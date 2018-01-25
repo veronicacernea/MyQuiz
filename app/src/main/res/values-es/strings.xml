@@ -1,0 +1,54 @@
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">(ES)
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">(ES)Quiz App</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="q1">(ES)Question 1 here!</string>
+    <string name="q1_hint">(ES)please answer</string>
+    <string name="q1_correct_answer">(ES)correct answer</string>
+
+    <string name="q2">(ES)Question 2 here!</string>
+    <string name="q2_option1">(ES)Answer 1 for question 2</string>
+    <string name="q2_option2">(ES)Answer 2 for question 2</string>
+    <string name="q2_option3">(ES)Answer 3 for question 2</string>
+    <string name="q2_correct_answer">(ES)123</string>
+
+    <string name="q3">(ES)Question 3 here!</string>
+    <string name="q3_option1">(ES)First option</string>
+    <string name="q3_option2">(ES)Second option</string>
+    <string name="q3_option3">(ES)Third option</string>
+    <string name="q3_correct_answer">(ES)1</string>
+
+    <string name="q4">(ES)Question 4 here!</string>
+    <string name="q4_option1">(ES)Answer 1 for question 4</string>
+    <string name="q4_option2">(ES)Answer 2 for question 4</string>
+    <string name="q4_option3">(ES)Answer 3 for question 4</string>
+    <string name="q4_correct_answer">(ES)23</string>
+
+    <string name="q5">(ES)Question 5 here!</string>
+    <string name="q5_option1">(ES)First option</string>
+    <string name="q5_option2">(ES)Second option</string>
+    <string name="q5_option3">(ES)Third option</string>
+    <string name="q5_correct_answer">(ES)3</string>
+
+    <string name="submit">(ES)submit</string>
+
+    <string name="result_text">(ES)Correct answers:</string>
+    <string name="incorrect_questions">(ES)Incorrect questions:</string>
+
+
+</resources>

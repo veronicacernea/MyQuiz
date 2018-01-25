@@ -1,0 +1,54 @@
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Quiz App</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="q1">Question 1 here!</string>
+    <string name="q1_hint">please answer</string>
+    <string name="q1_correct_answer">correct answer</string>
+
+    <string name="q2">Question 2 here!</string>
+    <string name="q2_option1">Answer 1 for question 2</string>
+    <string name="q2_option2">Answer 2 for question 2</string>
+    <string name="q2_option3">Answer 3 for question 2</string>
+    <string name="q2_correct_answer">123</string>
+
+    <string name="q3">Question 3 here!</string>
+    <string name="q3_option1">First option</string>
+    <string name="q3_option2">Second option</string>
+    <string name="q3_option3">Third option</string>
+    <string name="q3_correct_answer">1</string>
+
+    <string name="q4">Question 4 here!</string>
+    <string name="q4_option1">Answer 1 for question 4</string>
+    <string name="q4_option2">Answer 2 for question 4</string>
+    <string name="q4_option3">Answer 3 for question 4</string>
+    <string name="q4_correct_answer">23</string>
+
+    <string name="q5">Question 5 here!</string>
+    <string name="q5_option1">First option</string>
+    <string name="q5_option2">Second option</string>
+    <string name="q5_option3">Third option</string>
+    <string name="q5_correct_answer">3</string>
+
+    <string name="submit">submit</string>
+
+    <string name="result_text">Correct answers:</string>
+    <string name="incorrect_questions">Incorrect questions:</string>
+
+
+</resources>
